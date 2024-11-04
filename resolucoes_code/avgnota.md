@@ -47,10 +47,10 @@ print("A média das notas é:", media)
 
 # Exemplo de Uso
 
-Digite a primeira nota: 7.5
-Digite a segunda nota: 8.0
-Digite a terceira nota: 6.5
-A média das notas é: 7.333333333333333
+- Digite a primeira nota: 7.5
+- Digite a segunda nota: 8.0
+- Digite a terceira nota: 6.5
+- A média das notas é: 7.333333333333333
 
 ## Considerações Finais
 - Este software é destinado a fins educacionais e pode ser expandido para incluir mais funcionalidades, como validação de entrada e cálculo de outras estatísticas.
