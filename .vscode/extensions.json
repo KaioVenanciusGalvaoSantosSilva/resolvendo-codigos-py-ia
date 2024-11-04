@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "jaybarnes.chatgpt-vscode-plugin"
+        "jaybarnes.chatgpt-vscode-plugin",
+        "blackboxapp.blackbox"
     ]
 }
