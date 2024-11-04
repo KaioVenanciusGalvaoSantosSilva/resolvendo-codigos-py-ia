@@ -33,6 +33,7 @@ resultado = texto * repeticoes
 
 # Exibe o resultado
 print("A string repetida é:", resultado)
+```
 
 ## 5. Como Usar
 
