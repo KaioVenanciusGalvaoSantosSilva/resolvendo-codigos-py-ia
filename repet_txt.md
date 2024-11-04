@@ -34,23 +34,29 @@ resultado = texto * repeticoes
 # Exibe o resultado
 print("A string repetida é:", resultado)
 
-5. Como Usar
-Execute o programa em um ambiente Python.
-Quando solicitado, insira uma string de sua escolha.
-Em seguida, insira um número inteiro que representa quantas vezes você deseja repetir a string.
-O programa exibirá a string repetida conforme o número fornecido.
-6. Exemplos de Uso
-Exemplo 1:
-Entrada:
-String: "Olá"
-Número: 3
-Saída:
-"A string repetida é: OláOláOlá"
-Exemplo 2:
-Entrada:
-String: "Python"
-Número: 2
-Saída:
-"A string repetida é: PythonPython"
-7. Considerações Finais
+## 5. Como Usar
+
+- Execute o programa em um ambiente Python.
+- Quando solicitado, insira uma string de sua escolha.
+- Em seguida, insira um número inteiro que representa quantas vezes você deseja repetir a string.
+- O programa exibirá a string repetida conforme o número fornecido.
+
+## 6. Exemplos de Uso
+
+### Exemplo 1:
+- **Entrada:**
+  - String: "Olá"
+  - Número: 3
+- **Saída:** 
+  - "A string repetida é: OláOláOlá"
+
+### Exemplo 2:
+- **Entrada:**
+  - String: "Python"
+  - Número: 2
+- **Saída:** 
+  - "A string repetida é: PythonPython"
+
+## 7. Considerações Finais
+
 Este programa é uma ótima maneira de praticar a entrada de dados e a manipulação de strings em Python. É simples, mas eficaz para entender como as repetições de strings funcionam na linguagem.
