@@ -60,7 +60,6 @@ int(): Converte a entrada para um número inteiro.
 if numero % 2 == 0: Condicional que verifica se o número é divisível por 2 (número par).
 print(): Exibe o resultado ao usuário.
 
-
 ## 8. Considerações Finais
 Este software é um exemplo básico de como utilizar condicionais em Python e o operador de módulo para realizar verificações. É uma boa prática para iniciantes aprenderem sobre lógica de programação e manipulação de entradas do usuário.
 
