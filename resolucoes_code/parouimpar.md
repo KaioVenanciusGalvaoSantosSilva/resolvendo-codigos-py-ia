@@ -39,11 +39,11 @@ O programa solicitará que o usuário insira um número inteiro. Após a inserç
 - Digite um número inteiro: 4
 - O número é par.
 
-7. Estrutura do Código
+# 7. Estrutura do Código
 O código é estruturado da seguinte maneira:
 
-# Solicita ao usuário que insira um número inteiro
-numero = int(input("Digite um número inteiro: "))
+- Solicita ao usuário que insira um número inteiro
+- numero = int(input("Digite um número inteiro: "))
 
 # Verifica se o número é par ou ímpar
 
@@ -54,11 +54,11 @@ else:
     print("O número é ímpar.")
 ```
 
-- **Explicação do Código**
-input(): Função que solicita a entrada do usuário.
-int(): Converte a entrada para um número inteiro.
-if numero % 2 == 0: Condicional que verifica se o número é divisível por 2 (número par).
-print(): Exibe o resultado ao usuário.
+**Explicação do Código**
+- input(): Função que solicita a entrada do usuário.
+- int(): Converte a entrada para um número inteiro.
+- if numero % 2 == 0: Condicional que verifica se o número é divisível por 2 (número par).
+- print(): Exibe o resultado ao usuário.
 
 ## 8. Considerações Finais
 Este software é um exemplo básico de como utilizar condicionais em Python e o operador de módulo para realizar verificações. É uma boa prática para iniciantes aprenderem sobre lógica de programação e manipulação de entradas do usuário.
